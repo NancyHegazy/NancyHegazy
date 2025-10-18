@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning c#<br>🎯 Goals: to be a senior dot net developer within the upcoming 5 years</p>
-
-###
-
 <h2 align="left">I code with html,css,bootstrap,c++,c,data structures,wordpress</h2>
 
 ###
