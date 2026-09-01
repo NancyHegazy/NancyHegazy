@@ -1,27 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 I'm Nancy
 
-###
+I'm a Full Stack .NET & Angular Developer based in Alexandria, Egypt.
 
-<p align="left">My name is  nancy and I'm a backend developer  from Egypt,Alexandria</p>
+## What I work with
+- **Back-End:** C#, .NET, Entity Framework Core, RESTful APIs, SQL Server
+- **Front-End:** Angular, TypeScript, RxJS, HTML5, CSS3, Bootstrap
+- **Architecture:** Clean Architecture, 3-Tier Architecture, Repository Pattern
 
-###
+## Background
+I transitioned into software development after several years as a Senior Accountant, 
+which gives me a strong edge on finance and invoicing-related systems.
 
-<h2 align="left">I graduated from faculty of commerce english section alexandria university</h2>
-
-###
-
-<h2 align="left">I code with html,css,bootstrap,c++,c,data structures,wordpress</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
+📫 Reach me: nancyhegazy459@gmail.com | [LinkedIn](https://www.linkedin.com/in/nancyhegazy/)
